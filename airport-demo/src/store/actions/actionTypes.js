@@ -1,0 +1,8 @@
+export const MOVE_TO = 'MOVE_TO';
+export const DISPLAY = 'DISPLAY';
+export const IS_BACK_BTN_CLICKED = 'IS_BACK_BTN_CLICKED';
+export const SET_SCHEDULE_FILTER = 'SET_SCHEDULE_FILTER'; 
+export const GET_FLIGHTS = 'GET_FLIGHTS';
+export const CHOOSE_LANGUAGE = 'CHOOSE_LANGUAGE';
+export const GET_PASSENGERS = 'GET_PASSENGERS';
+export const GET_CURRENT_USER = 'GET_CURRENT_USER';

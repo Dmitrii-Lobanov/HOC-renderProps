@@ -1,0 +1,52 @@
+[
+  {
+    "id": "443002",
+    "place": "San Francisco",
+    "price": "216"
+  },
+  {
+    "id": "540032",
+    "place": "Los Angeles",
+    "price": "213"
+  },
+  {
+    "id": "43920",
+    "place": "New York",
+    "price": "159"
+  },
+  {
+    "id": "89300",
+    "place": "Seattle",
+    "price": "134"
+  },
+  {
+    "id": "5400",
+    "place": "Denver",
+    "price": "128"
+  },
+  {
+    "id": "554090",
+    "place": "Washington DC",
+    "price": "166"
+  },
+  {
+    "id": "049030",
+    "place": "Phoenix",
+    "price": "232"
+  },
+  {
+    "id": "439022",
+    "place": "Austin",
+    "price": "242"
+  },
+  {
+    "id": "2323204",
+    "place": "Houston",
+    "price": "351"
+  },
+  {
+    "id": "44300449",
+    "place": "New Orleans",
+    "price": "210"
+  }
+]

@@ -1,0 +1,77 @@
+$disabled-bg-color: tomato;
+$submit-bg-color: green;
+$secondary-font-color: blue;
+
+.App {
+  text-align: center;
+}
+
+.container {
+  margin: 50px;
+}
+
+.calendar-footer {
+  color: $secondary-font-color;
+  font-size: 1.5em;
+}
+
+.datepicker {
+  height: 30px;
+  width: 200px;
+  border-radius: 3px;
+  font-size: 1em;
+}
+
+.react-datepicker__close-icon {
+  left: 85% !important;  
+}
+
+.react-datepicker__close-icon:after {
+  background-color: #e5e5e5 !important;  
+}
+
+button {
+  height: 40px;
+  width: 150px;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 1em;
+}
+
+.button--disable {
+  background-color: $disabled-bg-color;
+}
+
+.button--submit {
+  background-color: $submit-bg-color;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

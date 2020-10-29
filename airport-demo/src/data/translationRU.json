@@ -1,0 +1,19 @@
+{
+    "Header.airportTitle": "Международный аэропорт Демо",
+    "Header.backBtn": "Назад",
+    "Options.schedule": "Расписание",
+    "Options.scan": "Отсканируйте свой билет",
+    "Options.maps": "Карты",
+    "Options.services": "Услуги",
+    "DepartureTable.flight": "Рейс",
+    "DepartureTable.airport": "Аэропорт",
+    "DepartureTable.time": "Время вылета",
+    "ArrivalTable.time": "Время прилета",
+    "Maps.content": "Здесь должны быть карты",
+    "Services.content": "Здесь должно быть что-то о сервисах",
+    "Schedule.departureBtn": "Вылеты",
+    "Schedule.arrivalBtn": "Прилеты",
+    "UserInput.placeholder": "Введите номер Вашего билета",
+    "Submit.btn": "Подтвердить",
+    "ScanTicket.btn": "Сканируйте Ваш билет"
+}

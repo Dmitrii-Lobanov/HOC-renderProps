@@ -1,0 +1,27 @@
+[
+    {
+        "index": 1,
+        "flight": "S307",
+        "airport": "Moscow",
+        "arrivalTime": "09:45",
+        "status": "arrival"
+    }, {
+        "index": 2,
+        "flight": "U23",
+        "airport": "London",
+        "arrivalTime": "23:10",
+        "status": "departure"
+    }, {
+        "index": 3,
+        "flight": "TC12",
+        "airport": "Brisbane",
+        "arrivalTime": "11:20",
+        "status": "arrival"
+    }, {
+        "index": 4,
+        "flight": "C15",
+        "airport": "London",
+        "arrivalTime": "23:10",
+        "status": "departure"
+    }
+]

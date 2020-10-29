@@ -1,0 +1,232 @@
+:root {
+  --main-btn-color: #2E3E6B;
+  --secondary-btn-color: #B3344E;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+}
+
+.choose-lang-container {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  align-content: center;
+}
+
+.btn-lang {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 20px grey;
+}
+
+.btn-lang img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.btn {
+  width: 200px;
+  height: 140px;
+  margin-left: 25%;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px grey;
+}
+
+.btn-ru {
+  background-image: url('./data/images/ru.jpeg');
+  background-size: cover;
+}
+
+.btn-en {
+  background-image: url('./data/images/en.jpeg');
+  background-size: cover;
+}
+
+.content {
+  text-align: center;
+}
+
+.btn-back {
+  width: 150px;
+  height: 100px;
+  border-radius: 10px;
+  font-size: 2rem;
+  margin-left: 5%;
+  box-shadow: 10px 10px 20px grey;
+  background-color: var(--secondary-btn-color);
+}
+
+.options-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 10%;
+  grid-gap: 0;
+  justify-content: center;
+  width: 400px;
+  padding-left: 50%;
+}
+
+.options-container button {
+  width: 250px;
+  height: 200px;
+  font-size: 1rem;
+  border-radius: 5%;
+  padding-right: 0;
+  justify-self: center;
+  box-shadow: 10px 10px 20px grey;
+  margin: 30px;
+  background-color: var(--main-btn-color);
+  color: #ffffff;
+}
+
+.btn-flight-container {
+  margin-top: 5%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.btn-flight {
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 1rem;
+  margin-left: 25%;
+  background-color: var(--main-btn-color);
+  color: #ffffff;
+}
+
+table {
+  width: 100%;
+}
+
+.table-container {
+  margin-top: 2%;
+}
+
+.table-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: space-evenly;
+}
+
+.table-row th, td {
+  padding-top: 3%;
+  text-align: center;
+  vertical-align: middle;
+  height: 60px;
+  font-size: 1rem;
+}
+
+.table-row th {
+  background-color: #DAF5FF;
+}
+
+.table-row:nth-child(2n-1) {
+  background-color: #F8FDFF;
+}
+
+.table-row:nth-child(2n) {
+  background-color: #EEFAFF;
+}
+
+input[type=text] {
+  width: 30%;
+  height: 70px;
+  border: 3px solid #555;
+  text-align: center;
+  border-radius: 10px;
+}
+
+input[type=button] {
+  width: 15%;
+  height: 70px;
+  text-align: center;
+  box-shadow: 10px 10px 20px grey;
+  border-radius: 10px;
+  background-color: var(--secondary-btn-color);
+  color: white;
+  margin-left: 20px;
+}
+
+.user-input {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.btn-scan {
+  width: 250px;
+  height: 200px;
+  font-size: 1rem;
+  border-radius: 5%;
+  padding-right: 0;
+  justify-self: center;
+  box-shadow: 10px 10px 20px grey;
+  margin: 30px;
+  background-color: var(--main-btn-color);
+  color: #ffffff;
+  margin-top: 200px;
+  margin-left: 35%;
+}
+
+.not-found {
+  font-size: 3rem;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.boarding-pass-container {
+	background-color: red;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

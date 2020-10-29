@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12345",
+    "superhost": true,
+    "country": "Austria",
+    "stars": "4.90",
+    "generalInfo": "Sunny apartment near metro station.",
+    "img": "place1.jpg"
+  },
+  {
+    "id": "05944",
+    "superhost": true,
+    "country": "United States",
+    "stars": "4.82",
+    "generalInfo": "Grand and Cozy 1920's SF Studio",
+    "img": "place2.jpg"
+  },
+  {
+    "id": "403392",
+    "superhost": false,
+    "country": "Thailand",
+    "stars": "4.67",
+    "generalInfo": "White Breeze Pool 1BD Apartment",
+    "img": "place3.jpg"
+  },
+  {
+    "id": "449302",
+    "superhost": true,
+    "country": "United Kingdom",
+    "stars": "4.99",
+    "generalInfo": "Old Smock Windmill in rural Kent",
+    "img": "place4.jpg"
+  },
+  {
+    "id": "505403i",
+    "superhost": false,
+    "country": "United Kingdom",
+    "stars": "4.99",
+    "generalInfo": "Classical Apartment on the Royal Mile",
+    "img": "place5.jpg"
+  },
+  {
+    "id": "444030",
+    "superhost": true,
+    "country": "United States",
+    "stars": "4.96",
+    "generalInfo": "Tile House",
+    "img": "place6.jpg"
+  },
+  {
+    "id": "431293",
+    "superhost": true,
+    "country": "Thailand",
+    "stars": "4.69",
+    "generalInfo": "Designer Loft Bangkok Silom",
+    "img": "place7.jpg"
+  },
+  {
+    "id": "222004",
+    "superhost": true,
+    "country": "Japan",
+    "stars": "4.89",
+    "generalInfo": "Historic and Elegant Suite",
+    "img": "place8.jpg"
+  }
+]

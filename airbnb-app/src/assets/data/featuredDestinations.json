@@ -1,0 +1,23 @@
+[
+  {
+    "id": "32200",
+    "place": "Shanghai",
+    "stays": "680",
+    "info": "Get to know China’s ancient and booming port city from places to stay verified for quality and design.",
+    "img": "featured1.jpg"
+  },
+  {
+    "id": "553902",
+    "place": "San Francisco",
+    "stays": "280",
+    "info": "Discover Victorian flats, SoMa lofts, and more verified places to stay in a city where invention meets counterculture.",
+    "img": "featured2.jpg"
+  },
+  {
+    "id": "595030",
+    "place": "Austin",
+    "stays": "390",
+    "info": "Come for the music, stay for the BBQ, and rest easy in places to stay verified for quality and comfort.",
+    "img": "featured3.jpg"
+  }
+]

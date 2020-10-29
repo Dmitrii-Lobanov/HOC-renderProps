@@ -1,0 +1,42 @@
+[
+  {
+    "id": "445903",
+    "country": "morocco",
+    "activity": "Atlas Mountains Experience",
+    "price": "74",
+    "days": "2",
+    "img": "morocco.jpg"
+  },
+  {
+    "id": "09485984",
+    "country": "norway",
+    "activity": "2 Nights PACKAGE All Inclusive",
+    "price": "481",
+    "days": "3",
+    "img": "norway.jpg"
+  },
+  {
+    "id": "322901",
+    "country": "tanzania, united republic of",
+    "activity": "The family friendly safari",
+    "price": "2,105",
+    "days": "6",
+    "img": "tanzania.jpg"
+  },
+  {
+    "id": "94839320",
+    "country": "colombia",
+    "activity": "Chingaza National Park Wildlife Safari",
+    "price": "278",
+    "days": "2",
+    "img": "colombia.jpg"
+  },
+  {
+    "id": "9943030",
+    "country": "morocco",
+    "activity": "Active Adventure & Stay with Locals",
+    "price": "242",
+    "days": "4",
+    "img": "morocco2.jpg"
+  }
+]

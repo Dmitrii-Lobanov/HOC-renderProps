@@ -1,0 +1,47 @@
+[
+  {
+    "id": "32299",
+    "country": "Italy",
+    "generalInfo": "Luca & Lorenzo, cooking in Chianti hills",
+    "price": "108",
+    "stars": "5.0",
+    "votes": "1786",
+    "img": "experiences1.jpg"
+  },
+  {
+    "id": "43292",
+    "country": "Italy",
+    "generalInfo": "Learn to Row as a Venetian",
+    "price": "43",
+    "stars": "4.98",
+    "votes": "932",
+    "img": "experiences2.jpg"
+  },
+  {
+    "id": "3201949",
+    "country": "Italy",
+    "generalInfo": "Truffle experience Rome",
+    "price": "86",
+    "stars": "4.99",
+    "votes": "646",
+    "img": "experiences3.jpg"
+  },
+  {
+    "id": "958493",
+    "country": "Portugal",
+    "generalInfo": "Lisbon's best flavors",
+    "price": "52",
+    "stars": "4.94",
+    "votes": "3776",
+    "img": "experiences4.jpg"
+  },
+  {
+    "id": "123409",
+    "country": "Italy",
+    "generalInfo": "Hunt for truffles the Tuscan woods",
+    "price": "94",
+    "stars": "4.97",
+    "votes": "544",
+    "img": "experiences5.jpg"
+  }
+]

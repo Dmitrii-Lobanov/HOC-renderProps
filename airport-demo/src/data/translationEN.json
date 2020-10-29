@@ -1,0 +1,19 @@
+{
+    "Header.airportTitle": "Demo International Airport",
+    "Header.backBtn": "Back",
+    "Options.schedule": "Flight Schedule",
+    "Options.scan": "Scan Your Ticket",
+    "Options.maps": "Maps",
+    "Options.services": "Services",
+    "DepartureTable.flight": "Flight",
+    "DepartureTable.airport": "Airport",
+    "DepartureTable.time": "Departure time",
+    "ArrivalTable.time": "Arrival Time",
+    "Maps.content": "Maps should be here",
+    "Services.content": "Services should be here",
+    "Schedule.departureBtn": "Departures",
+    "Schedule.arrivalBtn": "Arrivals",
+    "UserInput.placeholder": "Enter your ticket number",
+    "Submit.btn": "Submit",
+    "ScanTicket.btn": "Scan your ticket"
+}
